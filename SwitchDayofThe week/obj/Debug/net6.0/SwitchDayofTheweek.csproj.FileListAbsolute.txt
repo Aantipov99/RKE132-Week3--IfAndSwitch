@@ -1,0 +1,15 @@
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\bin\Debug\net6.0\SwitchDayofTheweek.exe
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\bin\Debug\net6.0\SwitchDayofTheweek.deps.json
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\bin\Debug\net6.0\SwitchDayofTheweek.runtimeconfig.json
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\bin\Debug\net6.0\SwitchDayofTheweek.dll
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\bin\Debug\net6.0\SwitchDayofTheweek.pdb
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.csproj.AssemblyReference.cache
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.AssemblyInfoInputs.cache
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.AssemblyInfo.cs
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.csproj.CoreCompileInputs.cache
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.dll
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\refint\SwitchDayofTheweek.dll
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.pdb
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\SwitchDayofTheweek.genruntimeconfig.cache
+C:\Users\annaa\source\repos\WEEK3IfAndSwitch\SwitchDayofThe week\obj\Debug\net6.0\ref\SwitchDayofTheweek.dll
